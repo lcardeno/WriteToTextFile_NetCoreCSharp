@@ -1,0 +1,10 @@
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\bin\Debug\ExportRDCFiles.exe.config
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\bin\Debug\ExportRDCFiles.exe
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\bin\Debug\ExportRDCFiles.pdb
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\bin\Debug\Dapper.dll
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\bin\Debug\Dapper.xml
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\obj\Debug\ExportRDCFiles.csproj.CoreCompileInputs.cache
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\obj\Debug\ExportRDCFiles.csproj.CopyComplete
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\obj\Debug\ExportRDCFiles.exe
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\obj\Debug\ExportRDCFiles.pdb
+C:\Users\CNS - Internal\cns_export_rdc_data_files\ExportRDCFiles\ExportRDCFiles\obj\Debug\ExportRDCFiles.csproj.AssemblyReference.cache
